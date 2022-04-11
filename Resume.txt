@@ -1,3 +1,4 @@
 Name=Purushottam Ekkaldevi
-Designation= Test Anlyst
+Designation= Test Analyst
 Role = Test Application
+organization = Bitwise solutions
