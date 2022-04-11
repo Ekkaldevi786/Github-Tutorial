@@ -2,3 +2,5 @@ Name=Purushottam Ekkaldevi
 Designation= Test Analyst
 Role = Test Application
 organization = Bitwise solutions
+Branch = branch in edit branch
+skills = selenium,java,manual testing
